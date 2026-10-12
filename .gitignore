@@ -1,0 +1,25 @@
+# SQLite database and Write-Ahead Logging files
+*.db
+*.db-wal
+*.db-shm
+*.sqlite
+*.sqlite3
+
+# Environment variables and secrets
+.env
+.env.*
+*.pem
+*.json
+
+# Python bytecode and virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# OS & Editor files
+.DS_Store
+.vscode/
+.idea/

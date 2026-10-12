@@ -1,0 +1,6 @@
+streamlit>=1.40.0
+polars>=1.12.0
+google-genai>=0.3.0
+pydantic>=2.9.0
+pillow>=10.4.0
+twilio>=9.3.0
